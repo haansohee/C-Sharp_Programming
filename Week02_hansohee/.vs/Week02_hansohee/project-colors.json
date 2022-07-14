@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "dc26c692-133d-4ad1-adb8-290e19455dc2": {
+      "ProjectGuid": "dc26c692-133d-4ad1-adb8-290e19455dc2",
+      "DisplayName": "Winform1_hansohee",
+      "ColorIndex": 0
+    },
+    "aabbc963-f878-4b50-9397-1bc8b4f67904": {
+      "ProjectGuid": "aabbc963-f878-4b50-9397-1bc8b4f67904",
+      "DisplayName": "Winform2_hansohee",
+      "ColorIndex": 1
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "기타 파일",
+      "ColorIndex": -1
+    },
+    "84da914b-c59c-41e7-b0fa-a64d49bf1798": {
+      "ProjectGuid": "84da914b-c59c-41e7-b0fa-a64d49bf1798",
+      "DisplayName": "WInform3_hansohee",
+      "ColorIndex": 2
+    },
+    "903129c0-c194-49f3-bd85-8bd9db7af1d4": {
+      "ProjectGuid": "903129c0-c194-49f3-bd85-8bd9db7af1d4",
+      "DisplayName": "Winform3_hansohee",
+      "ColorIndex": 3
+    },
+    "3075a251-39fc-4145-bf1c-270ed6f848aa": {
+      "ProjectGuid": "3075a251-39fc-4145-bf1c-270ed6f848aa",
+      "DisplayName": "Winform3_hansohee",
+      "ColorIndex": 4
+    }
+  },
+  "NextColorIndex": 5
+}
