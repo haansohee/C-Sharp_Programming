@@ -1,0 +1,10 @@
+C:\Users\소희\Desktop\소희\2학년 1학기\C#\Week4_hansohee\Week4_06_sepecial\bin\Debug\Week4_06_sepecial.exe.config
+C:\Users\소희\Desktop\소희\2학년 1학기\C#\Week4_hansohee\Week4_06_sepecial\bin\Debug\Week4_06_sepecial.exe
+C:\Users\소희\Desktop\소희\2학년 1학기\C#\Week4_hansohee\Week4_06_sepecial\bin\Debug\Week4_06_sepecial.pdb
+C:\Users\소희\Desktop\소희\2학년 1학기\C#\Week4_hansohee\Week4_06_sepecial\obj\Debug\Week4_06_sepecial.csproj.SuggestedBindingRedirects.cache
+C:\Users\소희\Desktop\소희\2학년 1학기\C#\Week4_hansohee\Week4_06_sepecial\obj\Debug\Week4_06_sepecial.Form1.resources
+C:\Users\소희\Desktop\소희\2학년 1학기\C#\Week4_hansohee\Week4_06_sepecial\obj\Debug\Week4_06_sepecial.Properties.Resources.resources
+C:\Users\소희\Desktop\소희\2학년 1학기\C#\Week4_hansohee\Week4_06_sepecial\obj\Debug\Week4_06_sepecial.csproj.GenerateResource.cache
+C:\Users\소희\Desktop\소희\2학년 1학기\C#\Week4_hansohee\Week4_06_sepecial\obj\Debug\Week4_06_sepecial.csproj.CoreCompileInputs.cache
+C:\Users\소희\Desktop\소희\2학년 1학기\C#\Week4_hansohee\Week4_06_sepecial\obj\Debug\Week4_06_sepecial.exe
+C:\Users\소희\Desktop\소희\2학년 1학기\C#\Week4_hansohee\Week4_06_sepecial\obj\Debug\Week4_06_sepecial.pdb

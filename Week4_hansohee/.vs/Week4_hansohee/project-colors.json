@@ -1,0 +1,51 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "9b8ca5ca-b280-4560-8690-5a084aa0527c": {
+      "ProjectGuid": "9b8ca5ca-b280-4560-8690-5a084aa0527c",
+      "DisplayName": "Week4_01_hansohee",
+      "ColorIndex": 0
+    },
+    "0cc9387f-4c44-4fb8-aa29-9939844e3abb": {
+      "ProjectGuid": "0cc9387f-4c44-4fb8-aa29-9939844e3abb",
+      "DisplayName": "Week4_02_hansohee",
+      "ColorIndex": 1
+    },
+    "4cf94538-13ed-43ee-ac11-32f0d671487f": {
+      "ProjectGuid": "4cf94538-13ed-43ee-ac11-32f0d671487f",
+      "DisplayName": "Week_02_hansohee",
+      "ColorIndex": 2
+    },
+    "dfadbdcc-0500-44e3-8b28-340782d659d2": {
+      "ProjectGuid": "dfadbdcc-0500-44e3-8b28-340782d659d2",
+      "DisplayName": "Week4_03_hansohee",
+      "ColorIndex": 3
+    },
+    "b04ee9ce-cf14-47d4-859c-80e95c4a2fc3": {
+      "ProjectGuid": "b04ee9ce-cf14-47d4-859c-80e95c4a2fc3",
+      "DisplayName": "Week4_04_hansohee",
+      "ColorIndex": 4
+    },
+    "428a3e87-db87-47bb-ab46-65276a985889": {
+      "ProjectGuid": "428a3e87-db87-47bb-ab46-65276a985889",
+      "DisplayName": "Week4_05_hansohee",
+      "ColorIndex": 5
+    },
+    "951d7da1-ebb4-49d2-93d4-b417d6c9c16e": {
+      "ProjectGuid": "951d7da1-ebb4-49d2-93d4-b417d6c9c16e",
+      "DisplayName": "Week4_06_special",
+      "ColorIndex": 6
+    },
+    "2aa639df-f069-4489-94c9-d429bafb3db6": {
+      "ProjectGuid": "2aa639df-f069-4489-94c9-d429bafb3db6",
+      "DisplayName": "Week4_06_sepecial",
+      "ColorIndex": 7
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "기타 파일",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 8
+}
