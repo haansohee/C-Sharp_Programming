@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "6442f620-4fdc-46b0-a7a5-69b0d01671bd": {
+      "ProjectGuid": "6442f620-4fdc-46b0-a7a5-69b0d01671bd",
+      "DisplayName": "hansohee_01",
+      "ColorIndex": 0
+    },
+    "a5c8bc23-85a2-4bd6-b1ce-725089baf7ea": {
+      "ProjectGuid": "a5c8bc23-85a2-4bd6-b1ce-725089baf7ea",
+      "DisplayName": "hansohee_02",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
