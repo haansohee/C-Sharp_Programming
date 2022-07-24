@@ -1,0 +1,8 @@
+C:\Users\소희\Desktop\week11_hansohee\week11_hansohee\bin\Debug\week11_hansohee.exe.config
+C:\Users\소희\Desktop\week11_hansohee\week11_hansohee\bin\Debug\week11_hansohee.exe
+C:\Users\소희\Desktop\week11_hansohee\week11_hansohee\bin\Debug\week11_hansohee.pdb
+C:\Users\소희\Desktop\week11_hansohee\week11_hansohee\obj\Debug\week11_hansohee.csproj.AssemblyReference.cache
+C:\Users\소희\Desktop\week11_hansohee\week11_hansohee\obj\Debug\week11_hansohee.csproj.SuggestedBindingRedirects.cache
+C:\Users\소희\Desktop\week11_hansohee\week11_hansohee\obj\Debug\week11_hansohee.csproj.CoreCompileInputs.cache
+C:\Users\소희\Desktop\week11_hansohee\week11_hansohee\obj\Debug\week11_hansohee.exe
+C:\Users\소희\Desktop\week11_hansohee\week11_hansohee\obj\Debug\week11_hansohee.pdb
